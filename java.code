@@ -14,7 +14,7 @@ class Demo
          }
     }}
 
-    //INCOME TAX CALCULATOR
+    //INCOME TAX CALCULATOR CODE
     import java.util.*;
 class Demo 
 {
